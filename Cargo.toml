@@ -2,6 +2,8 @@
 name = "include-minifier"
 version = "0.1.0"
 edition = "2024"
+description = "Include html strings that are automatically minified"
+license = "MIT"
 
 [lib]
 proc-macro = true
